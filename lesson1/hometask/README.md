@@ -3,4 +3,5 @@
 ### Run code
 ```console
 go run bio.go
+go run bio-v2.go
 ```
