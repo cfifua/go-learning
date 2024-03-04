@@ -9,3 +9,9 @@ go mod init example/hello
 ```console
 go run hello.go
 ```
+
+### Build and execute as binary
+```console
+go build hello.go
+./hello
+```
